@@ -1,0 +1,15 @@
+[
+    {"id": "mosalsaly", "url": "https://mosalsaly.com/", "name": "mosalsaly", "priority": 0},
+    {"id": "narto-drama", "url": "https://edge.narto-drama.com/?lang=ar-SA", "name": "Narto Drama", "priority": 0},
+    {"id": "takkia-drama", "url": "https://takkiadrama.asia/", "name": "Takkia Drama", "priority": 1},
+    {"id": "top-cinema", "url": "https://topcinemaa.cc/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/?", "name": "Top Cinema", "priority": 2},
+    {"id": "lk21", "url": "https://tv12.lk21official.cc/", "name": "LK21", "priority": 3},
+    {"id": "royal-drama", "url": "https://w9.royal-drama.com/category3.php?cat=musalsalat-asiawia", "name": "Royal Drama", "priority": 4},
+    {"id": "asia-show", "url": "https://asiashow.net/", "name": "Asia Show", "priority": 5},
+    {"id": "asia-world", "url": "https://www.asiaworld.team/", "name": "Asia World", "priority": 6},
+    {"id": "asia4arabs", "url": "https://asia4arabs.com/", "name": "Asia 4 Arabs", "priority": 7},
+    {"id": "asia2tv", "url": "https://ww1.asia2tv.pw/status/ongoing-drama/", "name": "Asia 2 TV", "priority": 8},
+    {"id": "asiaar", "url": "https://www.asiaar.online/search/label/DramaBox?max-results=6", "name": "AsiaAr", "priority": 9},
+    {"id": "asia-tv-drama", "url": "https://asiatvdrama.com/", "name": "Asia TV Drama", "priority": 10},
+    {"id": "deep-drama", "url": "https://www.deep-drama.com/search/label/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A", "name": "Deep Drama", "priority": 11}
+]
